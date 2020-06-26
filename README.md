@@ -14,8 +14,6 @@ The classification report is as follows:
            1       0.86      0.77      0.81      8923
 
     accuracy                           0.87     23842
-   macro avg       0.87      0.85      0.85     23842
-weighted avg       0.87      0.87      0.87     23842
 
 
 Contributor: Ujan Sen, Github: https://github.com/ujansen
